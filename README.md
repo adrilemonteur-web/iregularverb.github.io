@@ -288,7 +288,7 @@
     <div class="completion-screen" id="completionScreen">
         <div class="big-check">🎉</div>
         <h2>Série terminée !</h2>
-        <p>Tu as maîtrisé ces 10 verbes.</p>
+        <p>Tu as maîtrisé ces 10 verbes. On continue ?</p>
         <button class="btn" onclick="startNextBatch()">Passer au niveau suivant</button>
     </div>
 </div>
