@@ -279,6 +279,7 @@
                 <input type="text" id="inPart" placeholder="been" autocomplete="off">
             </div>
         </div>
+        
 
         <button class="btn" id="btnCheck" onclick="checkAnswer()">Valider</button>
         <button class="btn btn-next" id="btnNext" onclick="nextCard()">Continuer</button>
